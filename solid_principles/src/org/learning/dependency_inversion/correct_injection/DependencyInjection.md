@@ -1,4 +1,4 @@
-####Dependency Injection
+#### Dependency Injection
 what have we done: <br>
 * The __InjectionDemo__ class injects the __ProductRepository__ dependency into the __ProductCatalog__ class
 * The __ProductFactory__ is the factory method responsible of instantiating the __SQLProductRepository__
