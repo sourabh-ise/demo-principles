@@ -1,5 +1,5 @@
 ## Liskov Substitution Principle
-####"Tell, Dont't Ask" Approach
+#### "Tell, Dont't Ask" Approach
 Example  
 >__Scenario__: An store has two types of products, __Generic products__ and __In house Products__.<br>
 >A discount of 20% is applied by default on all products<br>
